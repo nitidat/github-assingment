@@ -1,4 +1,5 @@
 import pandas as pd
+import time
 
 """
     This script will analyze Bike usage of Divvy Bikeshare with data input from 3 cities -
