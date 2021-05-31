@@ -9,12 +9,15 @@ import pandas as pd
         # Trip duration -trip_duration
         # User info - user_stats
         # Present raw data - raw_data
+		added fake function get_yearly_data
 """
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+def get_yearly_data(year):
+return year
 def get_city():
 
     #Function to get input from user to specify city, month and day
