@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare analysis of 3 cities using Python
 
 ### Files used
 Include the files used
