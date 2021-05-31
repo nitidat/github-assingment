@@ -17,6 +17,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+def get_yearly_data(year):
+return year
 def get_city():
 
     #Function to get input from user to specify city, month and day
