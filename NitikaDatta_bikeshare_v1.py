@@ -9,7 +9,6 @@ import pandas as pd
         # Trip duration -trip_duration
         # User info - user_stats
         # Present raw data - raw_data
-		added fake function get_yearly_data
 """
 
 CITY_DATA = { 'chicago': 'chicago.csv',
